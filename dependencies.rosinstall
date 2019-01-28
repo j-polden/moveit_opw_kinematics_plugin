@@ -1,2 +1,3 @@
+-git: {local-name: opw_kinematics, uri: https://github.com/Jmeyer1292/opw_kinematics.git}
 -git: {local-name: kuka_experimental, uri: https://github.com/ros-industrial/kuka_experimental.git}
 -git: {local-name: kuka_kr6r700_moveit_config, uri: https://github.com/JeroenDM/kuka_kr6r700_moveit_config.git}
